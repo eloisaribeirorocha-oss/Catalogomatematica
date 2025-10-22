@@ -1,24 +1,24 @@
-body{
-   color:purple;
-   background:black;
-   margin: 0px;
+body {
+    color: rgb(151, 3, 77);
+    background: rgb(129, 5, 129);
+    margin: 0px;
 }
 
-header{
-    border-bottom: solid 2px rgb(2, 0, 1);
+header {
+    border-bottom: solid 2px rgb(151, 3, 77);
     padding: 20px;
     font-size: 32px;
-    color:black;
+    color: black;
 }
 
-section{
-    background: rgb(164, 76, 236);
+section {
+    background: rgb(129, 5, 129);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 5%;
 }
