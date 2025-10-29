@@ -2,13 +2,14 @@ body {
     color: rgb(151, 3, 77);
     background: rgb(129, 5, 129);
     margin: 0px;
+    font-family: "Lora", sans-serif;
 }
 
 header {
     border-bottom: solid 2px rgb(151, 3, 77);
     padding: 20px;
     font-size: 32px;
-    color: black;
+    color: rgb(151, 3, 77);
 }
 
 section {
@@ -21,4 +22,13 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+p {
+    font-size: 20px;
 }
